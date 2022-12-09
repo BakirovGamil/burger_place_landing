@@ -25,5 +25,6 @@
 * Flexbox
 * Grid Layout
 * BEM Methodology
+* SCSS
 * JQuery
 * Fancybox
